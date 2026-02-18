@@ -2,6 +2,11 @@
 
 A secure, local-first password manager built with Python.
 
+## Live Demo
+
+- GitHub: https://github.com/miles-price/password-manager
+- Live App: Add your deployed Streamlit URL here
+
 ## Why I Built This
 
 I built this project to demonstrate practical security-focused engineering: encryption, key derivation, secure credential storage, CLI product design, and testable backend logic.
